@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LukeInCode
+# 👋 Hi, I’m @LukeInCode
 - 👀 I’m interested in learning always more and more about programming
 - 🌱 I’m currently learning adavanced C++
 - 💞️ I always collaborate with my best friend
